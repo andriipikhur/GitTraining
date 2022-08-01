@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Second upgrade of app");
 
         System.out.println("Third  upgrade of app");
+
+        System.out.println("V3.1 function upgrade");
     }
 }
